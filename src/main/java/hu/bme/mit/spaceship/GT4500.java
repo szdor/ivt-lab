@@ -97,4 +97,4 @@ public class GT4500 implements SpaceShip {
   }
 
 }
-// This line was changed in branch-A
+// This line was merged from branch-A and branch-B to reflect the changes from both.
